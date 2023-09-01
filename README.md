@@ -14,12 +14,6 @@
 - 🌐 Web development
 - 🤖 Machine learning and AI
 
-## What I'm Working On
-
-- 🌟 Currently working on [Project Name] - [Brief Description]
-- 📚 Learning [Technology/Tool/Framework]
-- 📝 Writing technical articles on [Your Blog/Platform]
-
 ## Get in Touch
 
 - 📫 Email me at cma115@sfu.ca
