@@ -18,6 +18,6 @@
 
 - 📫 Email me at cma115@sfu.ca
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/chitranshmotwani)
-- 🌐 Visit my personal website: [Your Website](https://www.chitranshmotwani.com)
+- 🌐 Visit my personal website: [Your Website](https://chitranshmotwani.github.io)
 
 ## Thanks for visiting my profile! Let's connect and build cool stuff together! 🚀
