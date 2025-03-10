@@ -8,11 +8,11 @@
 
 ## My Interests
 
-- 👨‍💻 Software development
 - 📊 Data science and analytics
-- 🎨 UI/UX design
-- 🌐 Web development
-- 🤖 Machine learning and AI
+- 🤖 Machine learning and artificial intelligence
+- 📈 Data visualization and storytelling
+- 🛠️ Data engineering and pipelines
+- 🔍 Data-driven decision making
 
 ## Get in Touch
 
