@@ -3,8 +3,8 @@
 ## About Me
 
 - 🎓 Computer Science student at Simon Fraser University
-- 💻 Passionate about coding and technology
-- 🚀 Always eager to learn and explore new things
+- 💻 Passionate about data and technology
+- 🚀 Always eager to learn and explore new possibilities in the tech world
 
 ## My Interests
 
