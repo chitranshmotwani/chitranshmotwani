@@ -1,4 +1,4 @@
-# Hi there, I'm Chitransh Motwani 👋
+# Hi there, I'm Chitransh M. 👋
 
 ## About Me
 
